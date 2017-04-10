@@ -1,0 +1,2 @@
+# nsis-examples
+NSIS examples
